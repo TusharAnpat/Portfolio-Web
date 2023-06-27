@@ -6,7 +6,7 @@ import React1 from '../assets/react1.jpg';
 import React2 from '../assets/react2.webp';
 
 const AboutContent = () => {
-  return (
+  return ( 
     <div className="about">
       <div className="left">
         <h1>Who Am I?</h1>
