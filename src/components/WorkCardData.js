@@ -17,9 +17,9 @@ const ProjectCardData = [
     },
     {
         imgsrc: project3,
-        title: "Portfolio website",
+        title: "E-Comm App",
         text: "This website is a digital platform that showcases my professional work and accomplishments. It is a personalized and customizable website that presents a collection of my work samples, skills, and achievements in a visually appealing and organized manner",
-        source: "https://github.com/TusharAnpat/Portfolio-Website.git",
+        source: "https://github.com/TusharAnpat/E-Com-App.git",
     },
 ];
 
